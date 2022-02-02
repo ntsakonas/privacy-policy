@@ -8,8 +8,10 @@ I am not making the app available on any other store or APK download sites. The 
 The app does not have and will never have any ads.
 The app does not sell products or services neither in the form of in-app products or via external stes and will never ask you to pay for anything.
 
-I take privacy very seriously and therefore the app does not and will never collect any personal data including but not limited to name, age, sex, account information, 
-location, device information, network information and installed applications.
+I take privacy very seriously and therefore the app does not and will never collect any personal data including but not limited to name, age, sex, account information, login information, passwords,  
+location, device information, network information, financial info, credit cards, purhcase history, messages, contacts, browsing activity, browsing history, installed applications, application activity.
+
+The only permission required by the app is network access. This does not allow the app to access any information stored on your phone.
 
 The app does not access your saved files or photos - it does not need them. It only uses its own private storage allocated by the OS to save 
 its database when you use the "saved locations" feature and access its own files and settings. 
@@ -26,4 +28,5 @@ To the best of my knowledge the app has no security vulnerabilities that can put
 If you have any concerns please uninstall the app immediately and let me know.
 
 Nick Tsakonas
+
 sv1djg@gmail.com
