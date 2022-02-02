@@ -24,6 +24,8 @@ This version, being quite old, did not implement the option to opt-out both from
 Both Google Analytics and Crahslytics are (obviously) Google products and the data is not exported or shared with any 3rd party. 
 The data stays in Google's systems as they intended to, and viewed in Google's dashboard only, and only by me for analysis and monitoring purposes.
 
+The app does not use any 3rd party libraries, all the code is developed by me. This ensures that there is no unintentional data leak through a 3rd party library and no malicious code is added to the app. 
+
 To the best of my knowledge the app has no security vulnerabilities that can put your personal data at risk. 
 If you have any concerns please uninstall the app immediately and let me know.
 
