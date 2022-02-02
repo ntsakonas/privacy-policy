@@ -8,8 +8,7 @@ I am not making the app available on any other store or APK download sites. The 
 The app does not have and will never have any ads.
 The app does not sell products or services neither in the form of in-app products or via external stes and will never ask you to pay for anything.
 
-I take privacy very seriously and therefore the app does not and will never collect any personal data including but not limited to name, age, sex, account information, login information, passwords,  
-location, device information, network information, financial info, credit cards, purhcase history, messages, contacts, browsing activity, browsing history, installed applications, application activity.
+I take privacy very seriously and therefore the app does not and will never collect any personal data including but not limited to name, age, sex, account information, login information, passwords,location, device information, network information, financial info, credit cards, purhcase history, messages, contacts, browsing activity, browsing history, installed applications, application activity.
 
 The only permission required by the app is network access. This does not allow the app to access any information stored on your phone.
 
